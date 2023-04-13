@@ -24,7 +24,6 @@ services:
     depends_on:
       - seq
       - zipkin
-      - rmq
 
   copy-player:
     build:
@@ -34,7 +33,6 @@ services:
     depends_on:
       - seq
       - zipkin
-      - rmq
 
   random-player:
     build:
@@ -44,7 +42,6 @@ services:
     depends_on:
       - seq
       - zipkin
-      - rmq
 
 #  rmq:
 #    image: rabbitmq:management
