@@ -1,0 +1,30 @@
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/bin/Debug/net6.0/Helpers.deps.json
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/bin/Debug/net6.0/Helpers.dll
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/bin/Debug/net6.0/Helpers.pdb
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/bin/Debug/net6.0/Events.dll
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/bin/Debug/net6.0/Events.pdb
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.csproj.AssemblyReference.cache
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.AssemblyInfoInputs.cache
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.AssemblyInfo.cs
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.csproj.CoreCompileInputs.cache
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.csproj.CopyComplete
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.dll
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/refint/Helpers.dll
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/Helpers.pdb
+/Users/tbmh/Desktop/RockPaperScissor/Helpers/obj/Debug/net6.0/ref/Helpers.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\bin\Debug\net6.0\Events.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\bin\Debug\net6.0\Events.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.csproj.CopyComplete
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\Helpers\obj\Debug\net6.0\ref\Helpers.dll

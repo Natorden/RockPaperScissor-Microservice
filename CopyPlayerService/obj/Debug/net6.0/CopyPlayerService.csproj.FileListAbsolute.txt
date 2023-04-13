@@ -1,0 +1,92 @@
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/CopyPlayerService
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/CopyPlayerService.deps.json
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/CopyPlayerService.runtimeconfig.json
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/CopyPlayerService.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/CopyPlayerService.pdb
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/EasyNetQ.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/OpenTelemetry.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/OpenTelemetry.Api.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/OpenTelemetry.Exporter.Console.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/OpenTelemetry.Exporter.Zipkin.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.Enrichers.Span.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.Formatting.Compact.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.Sinks.Console.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.Sinks.File.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.Sinks.PeriodicBatching.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Serilog.Sinks.Seq.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Events.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Helpers.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Helpers.pdb
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/bin/Debug/net6.0/Events.pdb
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.csproj.AssemblyReference.cache
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.AssemblyInfoInputs.cache
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.AssemblyInfo.cs
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.csproj.CoreCompileInputs.cache
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.csproj.CopyComplete
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/refint/CopyPlayerService.dll
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.pdb
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/CopyPlayerService.genruntimeconfig.cache
+/Users/tbmh/Desktop/RockPaperScissor/CopyPlayerService/obj/Debug/net6.0/ref/CopyPlayerService.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\CopyPlayerService.exe
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\CopyPlayerService.deps.json
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\CopyPlayerService.runtimeconfig.json
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\CopyPlayerService.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\CopyPlayerService.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\EasyNetQ.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\OpenTelemetry.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\OpenTelemetry.Api.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\OpenTelemetry.Exporter.Console.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\OpenTelemetry.Exporter.Zipkin.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.Enrichers.Span.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Events.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Helpers.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Helpers.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\bin\Debug\net6.0\Events.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.csproj.AssemblyReference.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.AssemblyInfoInputs.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.AssemblyInfo.cs
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.csproj.CoreCompileInputs.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.csproj.CopyComplete
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\refint\CopyPlayerService.dll
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.pdb
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\CopyPlayerService.genruntimeconfig.cache
+C:\University Work\RockPaperScissor-Microservice-Tjek\CopyPlayerService\obj\Debug\net6.0\ref\CopyPlayerService.dll
