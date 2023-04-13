@@ -16,15 +16,15 @@ services:
     ports:
       - 9411:9411
 
-game-master:
-  build:
-    context: .
-    dockerfile: GameMasterService/Dockerfile
-  image: nitrozeus1/rps-game-master:${DEPLOY_NUMBER}
-  depends_on:
-    - seq
-    - zipkin
-    - rmq
+  game-master:
+    build:
+      context: .
+      dockerfile: GameMasterService/Dockerfile
+    image: nitrozeus1/rps-game-master:${DEPLOY_NUMBER}
+    depends_on:
+      - seq
+      - zipkin
+      - rmq
 
   copy-player:
     build:
